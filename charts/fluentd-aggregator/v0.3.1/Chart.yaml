@@ -1,5 +1,5 @@
 apiVersion: v1
-description: A Fluentd Aggregator Helm chart Continuously Receive Events From The Log Forwarders.
+description: A Fluentd Aggregator Helm chart Continuously Receive Events From The Log Forwarders. Custom gems added.
 icon: file://../fluentd-logo.png
 name: fluentd-aggregator
 version: 0.3.1
@@ -8,5 +8,5 @@ home: https://www.fluentd.org/
 sources:
 - https://www.fluentd.org/
 maintainers:
-- name: guangbochen
-  email: support@rancher.com
+- name: slonob
+  email: slonob@gmail.com
